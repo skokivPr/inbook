@@ -50,6 +50,7 @@ body {
     padding: 0.5rem;
     user-select: none;
     scrollbar-width: none;
+    font-family: "JetBrains Mono", "Share Tech Mono", monaco, courier !important;
 }
 
 /* Górny pasek */
@@ -1434,4 +1435,5 @@ body.no-animations .grid-cell:hover {
 .icon-btn:hover .corner {
     opacity: 1;
     border-color: var(--highlight-color);
+
 }
